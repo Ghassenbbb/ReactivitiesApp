@@ -1,0 +1,17 @@
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Application.dll
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Application.pdb
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Domain.dll
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Persistence.dll
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Persistence.pdb
+E:\Dotnet Projects\Reactivities\Application\bin\Debug\net5.0\Domain.pdb
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.dll
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
+E:\Dotnet Projects\Reactivities\Application\obj\Debug\net5.0\Application.pdb
